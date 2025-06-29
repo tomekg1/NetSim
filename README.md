@@ -1,32 +1,23 @@
-\# NetSim Factory Workflow Simulation
-
-
+# NetSim Factory Workflow Simulation
 
 NetSim is a factory workflow simulation project that models and simulates the operations of a manufacturing facility.
 
 
+### Prerequisites
 
-
-
-\### Prerequisites
-
-\- C++17
-
-\- CMake 3.17
-
-\- Google Test framework
-
+- C++17
+- CMake 3.17
+- Google Test framework
 
 
 NetSim/
 
-├── CMakeLists.txt          # Main build configuration
+├── CMakeLists.txt
 
-├── include/                # Header files
+├── include/
 
-├── src/                    # Implementation files
+├── src/
 
-├── test/                   # Unit tests
+├── test/
 
-└── googletest-master/      # Google Test framework
-
+└── googletest-master/
